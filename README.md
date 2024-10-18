@@ -19,6 +19,8 @@ Microsoft Defender Firewall is one of the security features that protect your co
 
 Firewalls can be categorized into two types: stateful and stateless. Windows Defender Firewall is a stateful firewall.
 
+![Main](https://github.com/user-attachments/assets/f6ef0033-42c9-4723-991c-bee8a8d92133)
+
 ## 2. Accessing Windows Defender
 1. Press `Win + I` to open **Settings**.
 2. Navigate to **Update & Security**.
@@ -65,11 +67,17 @@ To ensure the latest protection:
 2. Scroll down and click **Check for updates** under **Virus & Threat Protection Updates**.
 3. Ensure Windows Defender is up to date to protect against the latest threats.
 
+![Inboud Rules](https://github.com/user-attachments/assets/5072ede4-ad68-4915-bc71-77fcc3078506)
+![Outbound Rules](https://github.com/user-attachments/assets/c52502be-8572-4be1-830b-a68717293267)
+
+
 ## 9. Notifications Configuration
 To manage Defender notifications:
 1. In Windows Security, go to **Settings** (gear icon on the bottom left).
 2. Select **Manage notifications**.
 3. Here, you can turn on or off notifications related to various Windows Defender activities, such as alerts for malware found, periodic scans, etc.
+
+![Monitoring](https://github.com/user-attachments/assets/1d51c916-c57d-4673-9869-cb3fd9a27e2d)
 
 ## 10. Conclusion
 Windows Defender offers a robust layer of security for your Windows machine. By following the steps outlined above, you can ensure that your system is adequately protected from potential threats while having the flexibility to configure specific settings based on your requirements.
